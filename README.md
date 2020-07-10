@@ -4,8 +4,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Digital Library project enabled by AI
-- 🌱 I’m currently learning Machine Learning, Operating Systems, Algorithms and Django Framework
+I am a  persevering young man interested in " Research and Engineering", "Machine Learning" ," Operating Systems", "Algorithm "and "Programming".
+
+- 🔭 I’m currently working on Machine Learning Projects and web development
+- 🌱 I’m currently learning  Django Framework, MongoDB, Electronics , Molecular and Cells Biology.
 - 👯 I’m looking to collaborate on software development and Machine Learning projects and research
 - 💬 Ask me about Informatics Engineering 
 
