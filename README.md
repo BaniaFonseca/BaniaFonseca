@@ -4,10 +4,17 @@
 
 ### Hi there 👋
 
-I am a  persevering young man interested in " Research and Engineering", "Machine Learning" ," Operating Systems", "Algorithm "and "Programming".
+I can't imagine myself doing anything other than engineering, the beauty of applying science in order to make something useful to humanity is just jaw dropping to me. 
 
-- 🔭 I’m currently working on Machine Learning Projects and web development
-- 🌱 I’m currently learning  Django Framework, MongoDB and Game AI and Reinforcement Learning.
-- 👯 I’m looking to collaborate on software development and Machine Learning projects and research
-- 💬 Ask me about Informatics Engineering 
+I just graduated from computer engineering , applying computing to solve problems is what I do love the most, particularly when it come to mimic human intelligence through Artificial Intelligence.
+
+I am always pushing myself to the limit:
+- I've published my first paper
+- I'm an Huawei Certified ICT Associate - Routing & Switching, 
+- I'm currently working on Deep Learning project for coral conservation as software engineer
+- I was the top 1 of huawei's program: seeds for the future  - 2020 MZ
+- I was teacher's Aide of algorithms and operating systems
+- I've attended 5th IEEE International Smart Cities Conference (ISC2 2019), Casablanca, Morocco.
+
+skills: Machine Learning, Deep Learning, Data Science, Algorithms, Python, C and  TensorFlow
 
